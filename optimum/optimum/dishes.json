@@ -1,0 +1,198 @@
+[
+  {
+    "name": "Apple",
+    "kcal": 52
+  },
+  {
+    "name": "Banana",
+    "kcal": 89
+  },
+  {
+    "name": "Orange",
+    "kcal": 43
+  },
+  {
+    "name": "Grapes",
+    "kcal": 69
+  },
+  {
+    "name": "Watermelon",
+    "kcal": 30
+  },
+  {
+    "name": "Strawberry",
+    "kcal": 32
+  },
+  {
+    "name": "Blueberry",
+    "kcal": 57
+  },
+  {
+    "name": "Mango",
+    "kcal": 60
+  },
+  {
+    "name": "Pineapple",
+    "kcal": 50
+  },
+  {
+    "name": "Kiwi",
+    "kcal": 61
+  },
+  {
+    "name": "Carrot",
+    "kcal": 41
+  },
+  {
+    "name": "Broccoli",
+    "kcal": 34
+  },
+  {
+    "name": "Potato (boiled)",
+    "kcal": 77
+  },
+  {
+    "name": "Sweet potato (baked)",
+    "kcal": 86
+  },
+  {
+    "name": "Tomato",
+    "kcal": 18
+  },
+  {
+    "name": "Cucumber",
+    "kcal": 16
+  },
+  {
+    "name": "Spinach",
+    "kcal": 23
+  },
+  {
+    "name": "Avocado",
+    "kcal": 160
+  },
+  {
+    "name": "Egg (whole, cooked)",
+    "kcal": 155
+  },
+  {
+    "name": "Chicken breast (grilled)",
+    "kcal": 165
+  },
+  {
+    "name": "Beef steak (cooked)",
+    "kcal": 271
+  },
+  {
+    "name": "Pork chop (cooked)",
+    "kcal": 252
+  },
+  {
+    "name": "Salmon (baked)",
+    "kcal": 208
+  },
+  {
+    "name": "Tuna (canned in water)",
+    "kcal": 132
+  },
+  {
+    "name": "Shrimp (boiled)",
+    "kcal": 99
+  },
+  {
+    "name": "Rice (cooked)",
+    "kcal": 130
+  },
+  {
+    "name": "Pasta (cooked)",
+    "kcal": 131
+  },
+  {
+    "name": "Bread (white slice)",
+    "kcal": 79
+  },
+  {
+    "name": "Butter",
+    "kcal": 717
+  },
+  {
+    "name": "Olive oil",
+    "kcal": 884
+  },
+  {
+    "name": "Cheddar cheese",
+    "kcal": 403
+  },
+  {
+    "name": "Yogurt (plain, low\u2011fat)",
+    "kcal": 59
+  },
+  {
+    "name": "Milk (whole)",
+    "kcal": 61
+  },
+  {
+    "name": "Ice cream (vanilla)",
+    "kcal": 207
+  },
+  {
+    "name": "Pizza margherita (per 100\u202fg)",
+    "kcal": 266
+  },
+  {
+    "name": "Burger (plain, 100\u202fg patty + bun)",
+    "kcal": 295
+  },
+  {
+    "name": "Hot dog",
+    "kcal": 290
+  },
+  {
+    "name": "Pork sausage (cooked)",
+    "kcal": 308
+  },
+  {
+    "name": "Fried egg",
+    "kcal": 196
+  },
+  {
+    "name": "Omelette (plain)",
+    "kcal": 154
+  },
+  {
+    "name": "Pancake (plain)",
+    "kcal": 227
+  },
+  {
+    "name": "Waffle (plain)",
+    "kcal": 291
+  },
+  {
+    "name": "Dark chocolate (70%)",
+    "kcal": 546
+  },
+  {
+    "name": "Peanut butter",
+    "kcal": 588
+  },
+  {
+    "name": "Almonds",
+    "kcal": 579
+  },
+  {
+    "name": "Cashews",
+    "kcal": 553
+  },
+  {
+    "name": "Granola",
+    "kcal": 471
+  },
+  {
+    "name": "Oats (dry)",
+    "kcal": 389
+  },
+  {
+    "name": "French fries (oven\u2011baked)",
+    "kcal": 312
+  }
+]
